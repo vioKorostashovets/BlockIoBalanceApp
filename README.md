@@ -14,7 +14,8 @@ Make the steps below for checking the application:
 
 For launching BlockIoBalanceApp 
 1. download BlockIoBalanceApp-1.0-SNAPSHOT-jar-with-dependencies.jar and startBlockIoBalanceApp.bat file
-2. click on .bat file
+2. run this command in a command prompt opened in the directory with .jar file:
+'java -jar BlockIoBalanceApp-1.0-SNAPSHOT-jar-with-dependencies.jar'
 
 
 If you changed the application source code
